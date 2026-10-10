@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base App Theme -->
+    <style name="Theme.Dayplannerapp" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <!-- Splash Screen Theme (Android 12+ compatible) -->
+    <style name="Theme.AppSplash" parent="Theme.SplashScreen">
+        <!-- Set the splash background color -->
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+
+        <!-- Animated or static icon for splash screen -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <!-- Theme to switch to after splash screen finishes loading -->
+        <item name="postSplashScreenTheme">@style/Theme.Dayplannerapp</item>
+    </style>
+</resources>
