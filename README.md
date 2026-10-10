@@ -2,7 +2,7 @@
 
 Welcome to **Cat Quiz** — an interactive, fun, and engaging web application built for cat lovers and trivia enthusiasts alike! Test your knowledge about feline breeds, behaviors, history, and care through an entertaining quiz experience.
 
-![Project Banner / Preview](https://via.placeholder.com/1000x400?text=Cat+Quiz+App) <!-- Replace with a real screenshot or banner link if available -->
+![Project Banner / Preview](https://c7.alamy.com/comp/2HJR0X4/cat-vector-icon-pet-animal-sign-graph-symbol-for-pet-and-veterinary-web-site-and-apps-design-logo-app-ui-2HJR0X4.jpg) 
 
 ---
 
